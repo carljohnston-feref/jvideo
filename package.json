@@ -1,0 +1,31 @@
+{
+  "name": "j-video_plugin",
+  "version": "1.0.0",
+  "description": "Custom HTML element that renders HTML5 banner friendly video element with custom controls",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2",
+    "version": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carljohnston-feref/basic_video_controls.git"
+  },
+  "author": "Carl Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carljohnston-feref/basic_video_controls/issues"
+  },
+  "homepage": "https://github.com/carljohnston-feref/basic_video_controls#readme"
+}
